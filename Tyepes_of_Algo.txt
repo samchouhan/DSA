@@ -1,0 +1,11 @@
+Types of ALGORITHM
+
+-->Searching
+-->Greedy
+-->Recursive
+-->Backtracking
+-->Divide and Conquer
+-->Dynamic Programming
+-->Brute Force
+-->Sorting
+-->Hashing
