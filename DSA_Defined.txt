@@ -1,0 +1,16 @@
+###
+Data Structures
+
+A data structure is a way of organizing and storing data to enable efficient access and modification.
+The choice of a data structure depends on the type of operations required, such as searching, sorting, insertion, or deletion. Examples include arrays, linked lists, stacks, queues, trees, and graphs. 
+Efficient data structures help minimize time and space complexities, making programs faster and more memory-efficient.
+
+###
+
+Algorithms
+
+An algorithm is a step-by-step procedure or set of instructions designed to solve a specific problem or perform a task.
+Algorithms often operate on data structures to achieve their goals.
+Examples include sorting algorithms (e.g., Quick Sort, Merge Sort) and searching algorithms (e.g., Binary Search). 
+The efficiency of an algorithm is measured in terms of time complexity and space complexity, often expressed using Big O Notation.
+
