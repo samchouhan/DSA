@@ -1,0 +1,4 @@
+BIG DATA
+
+Refers to extremely large and complex datasets that are generated at high velocity from various sources.
+Tese datasets are difficult to process using traditional data management tools but can provide valuable insights when effectively analyzed using advanced techniques such as AI and machine learning
